@@ -1,4 +1,4 @@
-// File: D:\Workspace\next_workspace\react-quiz-2023\react-quiz-2023\app\finish\[...score]\page.tsx
+// File: /Volumes/jasmine/workspace/mini-quiz/app/finish/[...score]/page.tsx
 import * as entry from '../../../../../app/finish/[...score]/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

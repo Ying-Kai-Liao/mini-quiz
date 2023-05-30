@@ -1,26 +1,18 @@
 {
   "cssImports": {
-    "D:\\Workspace\\next_workspace\\react-quiz-2023\\react-quiz-2023\\app\\layout.tsx": [
-      "D:\\Workspace\\next_workspace\\react-quiz-2023\\react-quiz-2023\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Quicksand\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-quicksand\"}],\"variableName\":\"quicksand\"}",
-      "D:\\Workspace\\next_workspace\\react-quiz-2023\\react-quiz-2023\\app\\globals.css"
+    "/Volumes/jasmine/workspace/mini-quiz/app/layout.tsx": [
+      "/Volumes/jasmine/workspace/mini-quiz/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Quicksand\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-quicksand\"}],\"variableName\":\"quicksand\"}",
+      "/Volumes/jasmine/workspace/mini-quiz/app/globals.css"
     ]
   },
   "cssModules": {
-    "D:\\Workspace\\next_workspace\\react-quiz-2023\\react-quiz-2023\\app\\quiz\\page": [
-      "D:\\Workspace\\next_workspace\\react-quiz-2023\\react-quiz-2023\\app\\globals.css",
-      "D:\\Workspace\\next_workspace\\react-quiz-2023\\react-quiz-2023\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Quicksand\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-quicksand\"}],\"variableName\":\"quicksand\"}"
+    "/Volumes/jasmine/workspace/mini-quiz/app/page": [
+      "/Volumes/jasmine/workspace/mini-quiz/app/globals.css",
+      "/Volumes/jasmine/workspace/mini-quiz/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Quicksand\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-quicksand\"}],\"variableName\":\"quicksand\"}"
     ],
-    "D:\\Workspace\\next_workspace\\react-quiz-2023\\react-quiz-2023\\app\\page": [
-      "D:\\Workspace\\next_workspace\\react-quiz-2023\\react-quiz-2023\\app\\globals.css",
-      "D:\\Workspace\\next_workspace\\react-quiz-2023\\react-quiz-2023\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Quicksand\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-quicksand\"}],\"variableName\":\"quicksand\"}"
-    ],
-    "D:\\Workspace\\next_workspace\\react-quiz-2023\\react-quiz-2023\\app\\finish\\page": [
-      "D:\\Workspace\\next_workspace\\react-quiz-2023\\react-quiz-2023\\app\\globals.css",
-      "D:\\Workspace\\next_workspace\\react-quiz-2023\\react-quiz-2023\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Quicksand\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-quicksand\"}],\"variableName\":\"quicksand\"}"
-    ],
-    "D:\\Workspace\\next_workspace\\react-quiz-2023\\react-quiz-2023\\app\\finish\\[...score]\\page": [
-      "D:\\Workspace\\next_workspace\\react-quiz-2023\\react-quiz-2023\\app\\globals.css",
-      "D:\\Workspace\\next_workspace\\react-quiz-2023\\react-quiz-2023\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Quicksand\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-quicksand\"}],\"variableName\":\"quicksand\"}"
+    "/Volumes/jasmine/workspace/mini-quiz/app/finish/[...score]/page": [
+      "/Volumes/jasmine/workspace/mini-quiz/app/globals.css",
+      "/Volumes/jasmine/workspace/mini-quiz/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Quicksand\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-quicksand\"}],\"variableName\":\"quicksand\"}"
     ]
   }
 }

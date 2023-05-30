@@ -11,8 +11,8 @@ const Logo = () => {
       onClick={() => window.open("https://www.moneyweekly.com.tw/", "_self")}
       className=" cursor-pointer"
       src="/logo.png"
-      height="200"
-      width="150"
+      height="33"
+      width="110"
       alt="Logo"
     />
   );

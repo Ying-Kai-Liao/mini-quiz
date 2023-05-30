@@ -40,9 +40,9 @@ const Quiz = ({ questions, totalQuestions }: Props) => {
   };
 
   return (
-    <div className='text-black text-center'>
+    <div className=' p-20 text-black text-center'>
       <p className='p-8 font-bold text-[20px]'>得分: {score}</p>
-      <p className='text-black font-bold pb-2 text-[16px]'>
+      <p className='text-black font-bold text-[16px]'>
         當前第 {currentQuestionIndex + 1} 題  共 {totalQuestions} 題
       </p>
       <QuestionCard
@@ -53,7 +53,7 @@ const Quiz = ({ questions, totalQuestions }: Props) => {
         correctAnswer={questions[currentQuestionIndex].correct_answer}
         onClick={handleOnAnswerClick}
       />
-      <div className='flex justify-between mt-16 gap-6'>
+      <div className='flex justify-between mt-5 gap-6'>
         <Button text='上一題' onClick={() => handleChangeQuestion(-1)} />
         <Button
           text={currentQuestionIndex === totalQuestions - 1 ? '結束' : '下一題'}

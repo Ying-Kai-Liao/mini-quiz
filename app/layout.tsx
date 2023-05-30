@@ -9,8 +9,8 @@ const quicksand = Quicksand({
 });
 
 export const metadata = {
-  title: '測驗致富心態，預約有錢人生',
-  description: '測驗致富心態，預約有錢人生'
+  title: '測驗致富心態',
+  description: '測驗致富心態'
 };
 
 const RootLayout = ({ children }: { children: React.ReactNode }) => {

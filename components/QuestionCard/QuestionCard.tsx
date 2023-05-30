@@ -31,7 +31,7 @@ const QuestionCard: React.FC<Props> = ({
               correctAnswer,
               answer
             )} cursor-pointer flex items-center justify-center select-none font-bold min-h-[45px] max-w-[400] w-full my-2 rounded-[15px] 
-            active:bg-gray-300 active:delay-0 hover:opacity-60 transition duration-300 delay-100`}
+            active:bg-gray-300 active:delay-0 hover:scale-105 transition duration-300 delay-100`}
           >
             <span className='truncate' dangerouslySetInnerHTML={{ __html: answer }} />
           </div>
